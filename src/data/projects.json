@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Weather Dashboard",
+    "imgName": "weatherDashboard",
+    "description": "A weather dashboard that will run in the browser .",
+    "gitUrl": "https://abi-2021.github.io/Weather-Dashboard/",
+    "deployedUrl": "https://abi-2021.github.io/Weather-Dashboard//"
+  },
+  {
+    "title": "Web APIs Challenge: Code Quiz",
+    "imgName": "webapis",
+    "description": "A timed code quiz that's made up of multiple-choice questions",
+    "gitUrl": "https://github.com/Abi-2021/Abirami-Code-Quiz-12-Dec-2021",
+    "deployedUrl": "https://abi-2021.github.io/Abirami-Code-Quiz-12-Dec-2021/"
+  },
+  {
+    "title": "Interactive Front-End Project",
+    "imgName": "frontend",
+    "description": "This website help users search for randomized recipies and cocktails",
+    "gitUrl": "https://github.com/Abi-2021/Trilogy-Group-Project-Recipe-Helper",
+    "deployedUrl": "https://abi-2021.github.io/Trilogy-Group-Project-Recipe-Helper//"
+  },
+  {
+    "title": "Budget Tracker(PWA)",
+    "imgName": "budget",
+    "description": "Giving users a fast and easy way to track their money and allowing them to access the information even offline",
+    "gitUrl": "https://github.com/Abi-2021/budget-tracker",
+    "deployedUrl": "https://abi2021-budget-tracker.herokuapp.com/"
+  },
+  {
+    "title": "Professional README Generator(Node.js)",
+    "imgName": "readme",
+    "description": "A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package",
+    "gitUrl": "https://github.com/Abi-2021/readme-generator",
+    "deployedUrl": "https://github.com/Abi-2021/readme-generator/blob/main/sample-readme.md/"
+  },
+  {
+    "title": "Interactive Full-Stack Project",
+    "imgName": "fullstack",
+    "description": "A mySQL blog application designed to allow users to read, browse, and post blog entries to application",
+    "gitUrl": "https://github.com/Abi-2021/project-2-blog",
+    "deployedUrl": "http://portside.herokuapp.com/login/"
+  }
+]
