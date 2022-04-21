@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/photo-port/static/css/main.f3adfce7.css",
+    "main.js": "/photo-port/static/js/main.5738e645.js",
+    "static/media/weatherDashboard.jpg": "/photo-port/static/media/weatherDashboard.d0ce461348c95ad57374.jpg",
+    "static/media/readme.jpg": "/photo-port/static/media/readme.5e5413d99ca65069f005.jpg",
+    "static/media/fullstack.jpg": "/photo-port/static/media/fullstack.85029e0fd71b225a9a66.jpg",
+    "static/media/webapis.jpg": "/photo-port/static/media/webapis.9e30f8f36e826981c668.jpg",
+    "static/media/budget.jpg": "/photo-port/static/media/budget.7c77252e7c158994974d.jpg",
+    "static/media/progressiveWebApplication.jpg": "/photo-port/static/media/progressiveWebApplication.41b48734a823bd19d798.jpg",
+    "static/media/background.jpg": "/photo-port/static/media/background.0aa80b8160d6476f4267.jpg",
+    "static/media/resume.pdf": "/photo-port/static/media/resume.32661c947de3dec48e62.pdf",
+    "static/media/frontend.jpg": "/photo-port/static/media/frontend.2f6623fcc671dd48592d.jpg",
+    "static/media/profile.jpg": "/photo-port/static/media/profile.248ed5a917b3bbcc5c77.jpg",
+    "index.html": "/photo-port/index.html",
+    "main.f3adfce7.css.map": "/photo-port/static/css/main.f3adfce7.css.map",
+    "main.5738e645.js.map": "/photo-port/static/js/main.5738e645.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3adfce7.css",
+    "static/js/main.5738e645.js"
+  ]
+}
