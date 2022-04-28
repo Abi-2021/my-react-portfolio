@@ -39,6 +39,13 @@
     "imgName": "fullstack",
     "description": "A mySQL blog application designed to allow users to read, browse, and post blog entries to application",
     "gitUrl": "https://github.com/Abi-2021/project-2-blog",
-    "deployedUrl": "http://portside.herokuapp.com/login/"
+    "deployedUrl": "https://portside.herokuapp.com/login/"
+  },
+  {
+    "title": "Interactive MERN SPA Project",
+    "imgName": "mern",
+    "description": "A MERN SPA full-stack",
+    "gitUrl": "https://github.com/sajees89/final-project",
+    "deployedUrl": "https://frozen-inlet-62135.herokuapp.com/"
   }
 ]
