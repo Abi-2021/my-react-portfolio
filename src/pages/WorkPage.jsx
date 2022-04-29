@@ -9,7 +9,7 @@ function WorkPage() {
           My work
         </h2>
         <p className='section-paragraph'>
-          I’ve had the pleasure of working with multiple group projects and challenges at U of T bootcam,
+          I’ve had the pleasure of working with multiple group projects and challenges at U of T bootcamp,
           designing and implementing both frontend and backend.
         </p>
 
