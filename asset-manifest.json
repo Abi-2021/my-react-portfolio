@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.4a705e14.css",
-    "main.js": "/my-react-portfolio/static/js/main.1e6d8cd4.js",
+    "main.js": "/my-react-portfolio/static/js/main.9ed6199a.js",
     "static/media/weatherDashboard.jpg": "/my-react-portfolio/static/media/weatherDashboard.d0ce461348c95ad57374.jpg",
     "static/media/readme.jpg": "/my-react-portfolio/static/media/readme.5e5413d99ca65069f005.jpg",
+    "static/media/mern.jpg": "/my-react-portfolio/static/media/mern.66d29cb122b34dcf22b3.jpg",
     "static/media/fullstack.jpg": "/my-react-portfolio/static/media/fullstack.85029e0fd71b225a9a66.jpg",
     "static/media/webapis.jpg": "/my-react-portfolio/static/media/webapis.9e30f8f36e826981c668.jpg",
     "static/media/budget.jpg": "/my-react-portfolio/static/media/budget.7c77252e7c158994974d.jpg",
@@ -14,10 +15,10 @@
     "static/media/profile.jpg": "/my-react-portfolio/static/media/profile.248ed5a917b3bbcc5c77.jpg",
     "index.html": "/my-react-portfolio/index.html",
     "main.4a705e14.css.map": "/my-react-portfolio/static/css/main.4a705e14.css.map",
-    "main.1e6d8cd4.js.map": "/my-react-portfolio/static/js/main.1e6d8cd4.js.map"
+    "main.9ed6199a.js.map": "/my-react-portfolio/static/js/main.9ed6199a.js.map"
   },
   "entrypoints": [
     "static/css/main.4a705e14.css",
-    "static/js/main.1e6d8cd4.js"
+    "static/js/main.9ed6199a.js"
   ]
 }
