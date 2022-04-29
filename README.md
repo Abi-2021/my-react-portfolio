@@ -43,9 +43,16 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshots
 
-<img src="./src/screenshots/screenshot1.png"><pre></pre>
-<img src="./src/screenshots/screenshot2.png"><pre></pre>
-<img src="./src/screenshots/screenshot3.png"><pre></pre>
+<img src="./src/screenshots/image1.png"><pre></pre>
+<img src="./src/screenshots/image2.png"><pre></pre>
+<img src="./src/screenshots/image3.png"><pre></pre>
+
+
+
+## Deployed URL
+
+
+[URL](https://abi-2021.github.io/my-react-portfolio/)
 
 
 
